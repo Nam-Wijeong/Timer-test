@@ -17,9 +17,11 @@ button {
 }
 
 h1,
-p {
+p,
+cite {
   font-size: inherit;
   font-weight: inherit;
+  font-style: inherit;
 }
 
 .ir {
@@ -114,4 +116,10 @@ body {
 
 .start {
   margin-right: 12px;
+}
+
+.footer {
+  color: #8596bf;
+  text-align: center;
+  margin-top: 60px;
 }
